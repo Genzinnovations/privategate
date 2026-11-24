@@ -1,0 +1,10 @@
+{
+  "name": "privategate",
+  "version": "1.0.0",
+  "description": "Self-Hosted Local AI Team Gateway & Privacy Proxy",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/api.test.js"
+  }
+}
